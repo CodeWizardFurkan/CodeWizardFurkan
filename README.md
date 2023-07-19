@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm CodeWizardFurkan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+- 🌱 I’m currently learning **I am receiving training for my full stack Web Development candidacy.**
+
+- 📫 How to reach me **furkandemir.official0@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -13,4 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewizardfurkan&show_icons=true&locale=en" alt="codewizardfurkan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewizardfurkan&" alt="codewizardfurkan" /></p>
+
 
