@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CodeWizardFurkan</h1>
+<h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">As someone who has been interested in the software field for nearly 5 years, I continue to progress, develop and gain experience in this business.</h3>
 
 - 🌱 I’m currently learning **I am receiving training for my full stack Web Development candidacy.**
